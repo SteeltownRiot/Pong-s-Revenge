@@ -53,7 +53,8 @@ namespace Assets.Scripts
         {
             // Sets breakableCount to zero at start of each level
             Brick.breakableCount = 0;
-            Application.LoadLevel(Application.loadedLevel + 1);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            //Application.LoadLevel(Application.loadedLevel + 1);
         }
     }
 }
