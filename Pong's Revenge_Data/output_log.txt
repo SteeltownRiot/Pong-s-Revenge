@@ -17,30 +17,26 @@ Platform assembly: C:\Users\John\Documents\GitHub\Pongs-Revenge\Pong's Revenge_D
 Loading C:\Users\John\Documents\GitHub\Pongs-Revenge\Pong's Revenge_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\John\Documents\GitHub\Pongs-Revenge\Pong's Revenge_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\John\Documents\GitHub\Pongs-Revenge\Pong's Revenge_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.310 seconds
+- Completed reload, in  0.121 seconds
 Platform assembly: C:\Users\John\Documents\GitHub\Pongs-Revenge\Pong's Revenge_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\John\Documents\GitHub\Pongs-Revenge\Pong's Revenge_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.096932 ms
+UnloadTime: 1.220096 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.867985 ms
+UnloadTime: 4.874827 ms
 
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 511.
-Total: 0.243335 ms (FindLiveObjects: 0.036350 ms CreateObjectMapping: 0.023520 ms MarkObjects: 0.171916 ms  DeleteObjects: 0.011119 ms)
-
-The referenced script on this Behaviour (Game Object 'LevelManager') is missing!
- 
-(Filename:  Line: 1755)
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 512.
+Total: 0.254026 ms (FindLiveObjects: 0.035067 ms CreateObjectMapping: 0.028225 ms MarkObjects: 0.177904 ms  DeleteObjects: 0.011546 ms)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.345116 ms
+UnloadTime: 0.362222 ms
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 271.
-Total: 0.276692 ms (FindLiveObjects: 0.018389 ms CreateObjectMapping: 0.013257 ms MarkObjects: 0.182608 ms  DeleteObjects: 0.061582 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 272.
+Total: 0.313898 ms (FindLiveObjects: 0.018389 ms CreateObjectMapping: 0.012829 ms MarkObjects: 0.171061 ms  DeleteObjects: 0.111190 ms)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 3bd8 -> priority: 1 
-  Thread -> id: 4d54 -> priority: 1 
+  Thread -> id: 36f0 -> priority: 1 
+  Thread -> id: 546c -> priority: 1 

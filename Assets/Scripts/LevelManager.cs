@@ -3,7 +3,7 @@
  * steeltownriot@gmail.com
  * 
  * Created: 22 January 2017
- * Last updated: 5 February 2017
+ * Last updated: 7 April 2018
  * 
  * Details:
  * - Level manager that loads each level or quits the application
